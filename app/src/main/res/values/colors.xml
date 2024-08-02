@@ -1,0 +1,25 @@
+<resources>
+    <!--  Sign-in colors  -->
+    <color name="colorPrimary">#f4d2d2</color> <!-- Naranja intenso -->
+    <color name="colorPrimaryDark">#ff85a1</color> <!-- Naranja oscuro -->
+    <color name="colorAccent">#FFEB3B</color> <!-- Amarillo brillante -->
+    <color name="purple_200">#FF4081</color> <!-- Rosa brillante -->
+    <color name="purple_500">#E91E63</color> <!-- Rosa fuerte -->
+    <color name="purple_700">#C2185B</color> <!-- Rosa oscuro -->
+    <color name="teal_200">#00BCD4</color> <!-- Azul cyan claro -->
+    <color name="teal_700">#00838F</color> <!-- Azul cyan oscuro -->
+    <color name="black">#263238</color> <!-- Azul gris oscuro -->
+    <color name="white">#FFFFFF</color> <!-- Blanco puro -->
+    <color name="bg_sign_in_ek2_color">#FAFAFA</color> <!-- Gris claro -->
+    <color name="bg_group_3_ek1_color">#263238</color> <!-- Azul gris oscuro -->
+    <color name="ellipse_4_color">#FF4081</color> <!-- Rosa brillante -->
+    <color name="sign_up_color">#757575</color> <!-- Gris medio -->
+    <color name="rectangle_2_color">#FFFFFF</color> <!-- Blanco puro -->
+    <color name="colorLetra1">#212121</color> <!-- Negro para texto -->
+    <color name="colorIconos">#FFEB3B</color> <!-- Amarillo brillante para iconos -->
+    <color name="colorFondo">#f7c9e3</color> <!-- Gris claro -->
+    <color name="botonesColor">#f7c9f0</color> <!-- Verde vibrante para botones -->
+    <color name="botonColorSegundo">#C8E6C9</color> <!-- Verde claro para botones secundarios -->
+    <color name="fondoColor">#FAFAFA</color> <!-- Gris claro -->
+    <color name="colorFondoAlternativa">#EEEEEE</color> <!-- Gris muy claro -->
+</resources>
